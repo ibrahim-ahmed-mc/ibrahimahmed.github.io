@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Ibrahim Ahmed Blog</title>
+    <link>https://ibrahimahmed.github.io/posts/</link>
+    <description>Recent content in Posts on Ibrahim Ahmed Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 13 Oct 2023 11:12:45 +0500</lastBuildDate><atom:link href="https://ibrahimahmed.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>This is my first post using Hugo</title>
+      <link>https://ibrahimahmed.github.io/posts/mypost/</link>
+      <pubDate>Fri, 13 Oct 2023 11:12:45 +0500</pubDate>
+      
+      <guid>https://ibrahimahmed.github.io/posts/mypost/</guid>
+      <description>This is my first post using Hugo Hello World</description>
+    </item>
+    
+  </channel>
+</rss>
